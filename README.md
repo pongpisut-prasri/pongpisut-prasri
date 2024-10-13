@@ -5,9 +5,9 @@
 
 - 🖥️ Backend developer **FlowHR**
 
-- 📖 I’m currently learning **Docker/NodeJs**
-
 - 🖥️ Fullstack developer **FlowHR**
+
+- 📖 I’m currently learning **Docker/NodeJs**
 
 - 💬 Ask me about **Java Springboot , MongoDB and ReactJs**
 
