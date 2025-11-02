@@ -10,9 +10,13 @@
 - 📖 I’m currently learning **Docker/NodeJs** -->
 - 📖 I’m currently learning **Spring security, JWT and Postgres**
 
+- 🖥️ This is side project that developing to enhance my skill [Trackme](https://github.com/pongpisut-prasri/Trackme) it is only have backend side for now
+
 - 💬 You can talk to me about **Java Springboot , MongoDB and ReactJs**
 
 - 📫 How to reach me **pongpisut.prasri@gmail.com**
+
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +33,6 @@
 - Problem Identification  
 - Problem Solving  
 - Collaboration  
-- Leadership
 ----
 ### WORK EXPERIENCE
 
